@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-ms-adal-is-back",
-  "version": "0.10.10",
+  "name": "com.ameren.azurelibrary",
+  "version": "1.0.0",
   "description": "Provides Microsoft Azure Active Directory (ADAL) OAuth client.",
   "cordova": {
-    "id": "cordova-plugin-ms-adal-is-back",
+    "id": "com.ameren.azurelibrary",
     "platforms": [
       "android",
       "ios",
@@ -89,7 +89,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Perroquiet/azure-activedirectory-library-for-cordova.git"
+    "url": "git+https://github.com/amerenmcoi/azure-activedirectory-library-for-cordova"
   },
   "keywords": [
     "microsoft",
@@ -103,8 +103,6 @@
   ],
   "author": "MSOpenTech",
   "license": "Apache 2.0",
-  "bugs": {
-    "url": "https://github.com/Perroquiet/azure-activedirectory-library-for-cordova/issues"
-  },
-  "homepage": "https://github.com/Perroquiet/azure-activedirectory-library-for-cordova#readme"
+  "bugs": {},
+  "homepage": "https://github.com/amerenmcoi/azure-activedirectory-library-for-cordova#readme"
 }
